@@ -37,9 +37,16 @@ Klingri
 
 ## License
 
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
 * [Gemini](https://gemini.google.com/app)
+
+| Roadmap  | Description |
+| ------------- | ------------- |
+| 1 July 2025  | Early Access  |
+| 5 July 2025  | Alpha Release  |
+| 15 July 2025  | Beta Release  |
+| 1 August 2025  | Initial Full Release  |
