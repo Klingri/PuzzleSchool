@@ -4,8 +4,8 @@ Open-source project, avaliable on Roblox.
 
 | Roadmap  | Description |
 | ------------- | ------------- |
-| 1 July 2025  | Early Access  |
-| 5 July 2025  | Alpha Release  |
+| 5 July 2025  | Early Access  |
+| 10 July 2025  | Alpha Release  |
 | 15 July 2025  | Beta Release  |
 | 1 August 2025  | Initial Full Release  |
 
